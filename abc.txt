@@ -1,2 +1,5 @@
 happay new year
 change form bugfix trajectory
+ashu is gadha 
+new featrue is add 
+hellow i am from feature branch
