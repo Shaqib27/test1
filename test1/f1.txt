@@ -1,2 +1,3 @@
 this is new comment 
 just ot learn 
+once the have initilaize the git repository do not in re initialize 
