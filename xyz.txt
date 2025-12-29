@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 this comment form feature branch
-=======
 this is from the bugfix
->>>>>>> bugfix
